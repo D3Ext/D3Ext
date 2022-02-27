@@ -1,9 +1,39 @@
-## Hello everyone 👋
-## I'm D3Ext, and I'm a learning pentesting
+## Hello there 👋
+### I'm D3Ext, and I'm currently learning pentesting 💻
 
-[![Twitter Badge](https://img.shields.io/twitter/url?color=gray&label=Twitter&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fd3ext)](https://twitter.com/d3ext) [![Instagram Badge](https://img.shields.io/twitter/url?color=gray&label=Instagram&logo=Instagram&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fd3ext&link=https://instagram.com/d3ext)](https://instagram.com/d3ext) [![HackTheBox Badge](https://img.shields.io/twitter/url?color=gray&label=HackTheBox&logo=HackTheBox&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fd3ext&link=https://app.hackthebox.com/profile/784606)](https://app.hackthebox.com/profile/784606) [![Github Badge](https://img.shields.io/twitter/url?color=gray&label=d3ext.github.io&logo=Github&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fd3ext)](https://d3ext.github.io)
+## ⚡ My social networks
+<br>
 
-  
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true">
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/d3ext) 
+<br>
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/d3ext/) 
+<br>
+[![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-333?style=flat&logo=HackTheBox&logoColor=green)](https://app.hackthebox.com/profile/784606) 
+<br>
+[![Github](https://img.shields.io/badge/-d3ext.github.io-333?style=flat&logo=Github&logoColor=white)](https://d3ext.github.io)
+<br>
+
+## 🏆 Github Stats
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true" widht="100" height="168">
 </p>
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Ext&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" widht="100" height="166">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  
+## 💬 Reach out to me
+ 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:d3ext@gmail.com)
+
+<br>
+  
+### ⭐️ From [@D3Ext](https://github.com/D3ext) ⭐️
