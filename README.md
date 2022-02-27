@@ -18,9 +18,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true" widht="100" height="168">
 </p>
 
-<br>
-<br>
-
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Ext&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" widht="100" height="170">
 
