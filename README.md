@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 ### I'm D3Ext, and I'm currently learning pentesting 💻
 
 ## ⚡ My social networks
@@ -28,21 +28,14 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
  
+# :computer: Projects
+### - [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
+### - [CryptoExplorer](https://github.com/D3Ext/cryptoExplorer) :coin:
+
 ## 💬 Reach out to me
  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:d3ext@gmail.com)
 
-<br>
   
 ### ⭐️ From [@D3Ext](https://github.com/D3ext) ⭐️
