@@ -15,7 +15,7 @@
 
 ## 🏆 Github Stats
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true" widht="100" height="168">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=D3Ext&show_icons=true" widht="100" height="167">
 </p>
 
 <br>
@@ -24,6 +24,7 @@
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3Ext&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" widht="100" height="170">
 
+<br>
 <br>
 <br>
 <br>
