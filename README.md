@@ -43,7 +43,8 @@
 # :computer: Projects
 ### - [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
 ### - [CryptoExplorer](https://github.com/D3Ext/cryptoExplorer) :coin:
-
+### - [Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing-Lab)
+ 
 ## 💬 Reach out to me
  
 [![ProtonMail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:d3ext@protonmail.com)
