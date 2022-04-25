@@ -24,12 +24,15 @@
 <br>
 <br>
 <br>
+<br>
+<br>
  
 # :computer: Projects
 ### - [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
+### - [WEF](https://github.com/D3Ext/WEF) 📡
 ### - [CryptoExplorer](https://github.com/D3Ext/cryptoExplorer) :coin:
-### - [Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing-Lab)
- 
+### - [Captcha-Bypassing](https://github.com/D3Ext/Captcha-Bypassing-Lab) 🧪
+
 ## 💬 Reach out to me
  
 [![ProtonMail](https://img.shields.io/badge/-Protonmail-c14438?style=flat&logo=Protonmail&logoColor=white)](mailto:d3ext@protonmail.com)
