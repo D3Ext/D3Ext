@@ -22,6 +22,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
  
 # :computer: Projects
 ### - [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
@@ -30,7 +32,7 @@
  
 ## 💬 Reach out to me
  
-[![ProtonMail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Protonmail&logoColor=white)](mailto:d3ext@protonmail.com)
+[![ProtonMail](https://img.shields.io/badge/-Protonmail-c14438?style=flat&logo=Protonmail&logoColor=white)](mailto:d3ext@protonmail.com)
 
   
 ### ⭐️ From [@D3Ext](https://github.com/D3ext) ⭐️
