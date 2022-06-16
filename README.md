@@ -24,10 +24,10 @@
  
 <p align="center">
     <samp>
-      <a href="https://t.me/d3ext" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+      <a href="https://www.instagram.com/d3ext/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF4500.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://discord.com/users/557247557382832148" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a></a>
-      <a href="https://www.reddit.com/user/d3ext" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a></a>
-      <a href="mailto:d3ext@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaill&logoColor=white"></a></a>
+      <a href="https://twitter.com/D3Ext" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"></a></a>
+      <a href="mailto:d3ext@proton.me" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a></a>
       <h2></h2><br>
     </samp>
 </p>
