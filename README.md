@@ -44,9 +44,8 @@
 <details align="center">
 <summary><samp>Projects</samp></summary>
  
-### [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
 ### [WiFi-Exploitation-Framework](https://github.com/D3Ext/WEF) 📡
-### [CryptoExplorer](https://github.com/D3Ext/cryptoExplorer) 💰
+### [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
 ### [Captcha-ByPassing-Lab](https://github.com/D3Ext/Captcha-Bypassing-Lab) 🧪
 
 </details>
