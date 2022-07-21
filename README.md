@@ -46,7 +46,8 @@
  
 ### [WiFi-Exploitation-Framework](https://github.com/D3Ext/WEF) 📡
 ### [Pentest-Dictionary](https://github.com/D3Ext/PentestDictionary) :technologist:
-### [SDomDiscover](https://github.com/D3Ext/SDomDiscover)
+### [SDomDiscover](https://github.com/D3Ext/SDomDiscover) :mag_right:
+### [DFShell](https://github.com/D3Ext/DFShell) :crystal_ball:
 ### [Captcha-Bypassing-Lab](https://github.com/D3Ext/Captcha-Bypassing-Lab) 🧪
 
 </details>
